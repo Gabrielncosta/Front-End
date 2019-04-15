@@ -1,0 +1,47 @@
+header {
+  box-sizing: border-box;
+  background-color: #3587A4;
+  overflow: auto;
+  position: center;
+  top: 0; 
+  width: 100%;
+  z-index: 999;
+  text-align: center;
+  }
+
+body {
+  background: linear-gradient(-45deg, #35577D, #141E30);
+}
+
+#img-div {
+  width: 50%;
+  z-index: 999;
+  float: left;
+}
+
+#image{
+  border: 1px solid black;
+  width: 95%;
+  max-width: 95%;
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#img-caption {
+  position: bottom;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  }
+
+#tribute-info {
+  font-size: 30px;
+  color: white;
+}
+
+#tribute-link
+{
+  color: white;
+}
