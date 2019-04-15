@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head> 
+    <title id="title">Bill Gates</title>
+    <link type="text/css" rel="stylesheet href="normalize.css">
+    <link type="text/css" rel="stylesheet href="style.css"> 
+</head>
+<body>
+    <header>
+        <h1>William Henry Gates III</h1>
+        <h2><em>The man worth $77.2 billion<em></h2>
+   </header>
+   <main id="main">
+     <section>
+          <div id="img-div">
+              <img id="image" src="https://timedotcom.files.wordpress.com/2018/09/bill-gates-africa.jpg" all="Bill Gates" class="image">
+            <figcaption id="img-caption"><strong>Bill Gates</strong></figcaption>
+          </div>
+     </section>
+     <section>
+       <div id="tribute-info">
+         <p>Bill Gates is a technologist, business leader, and philanthropist. He grew up in Seattle, Washington, with an amazing and supportive family who encouraged his interest in computers at an early age. He dropped out of college to start Microsoft with his childhood friend Paul Allen. He married Melinda French in 1994 and they have three children. Today, Bill and Melinda Gates co-chair the charitable foundation bearing their names and are working together to give their wealth back to society. </p>
+         <p>Learn more about Bill Gates<a id="tribute-link" target="_blank" href="https://en.wikipedia.org/wiki/Bill_Gates"> here</a></p>
+   </main>
+</body>
+<script src="https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js"></script>
+<html>
