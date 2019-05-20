@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+
+<title>Grid</title>
+
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="header">
+    <div id="logo">
+    <img class="header-logo" src="http://www.energycare.com/wp-content/uploads/2018/05/ECARE-R.png">
+    <h1>TOTEM PARA CENTROS DE CIDADANIA DAS MULHERES</h1>
+    </div>
+  </header>
+<div class="wrapper">
+  <div class="instrução">
+    <h1>Olá, este totem é uma ferramenta criada para auxíliar mulheres vítimas de violência, assédio e outros crimes do gênero. Suas funções incluem e registrar ocorrências e acionar o serviço de emergência com o simples toque de um botão. </h1>
+  </div>
+</div>
+
+<div class="buttons">
+  <a class="button" href="">Registrar ocorrência </a>
+  <a class="button" href="">Serviço S.O.S</a>
+</div>
+
+</body>
+</html>
+
