@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
 
-<title>Grid</title>
+<title>Totem</title>
 
 <link rel="stylesheet" href="style.css">
 </head>
@@ -16,13 +16,15 @@
   </header>
 <div class="wrapper">
   <div class="instrução">
-    <h1>Olá, este totem é uma ferramenta criada para auxíliar mulheres vítimas de violência, assédio e outros crimes do gênero. Suas funções incluem e registrar ocorrências e acionar o serviço de emergência com o simples toque de um botão. </h1>
-  </div>
+    <h1>  Olá, este totem é uma ferramenta para dar voz a mulheres que sofrem abusos diários, situações como assédios sexuais, violência física e outros crimes do gênero. 
+      Atráves de uma pesquisa, você poderá registrar situações de violência ocorridas com você ou algum conhecido, os registros serão enviados para uma central de banco de dados,
+       onde serão analisadas e repassadas para autoridades locais para fins de aumento de policiamento e segurança. </h1>
+  </div> 
 </div>
 
 <div class="buttons">
-  <a class="button" href="">Registrar ocorrência </a>
-  <a class="button" href="">Serviço S.O.S</a>
+  <a class="button" href="">Registrar violência </a>
+  <a class="button" href="" style="display: none">Serviço S.O.S</a>
 </div>
 
 </body>
