@@ -41,8 +41,8 @@ body {
 	text-align: center;
 	border: 4px dashed white;
 	background: pink;
-	margin-bottom: 150px;
-	font-size: 1.6em;
+	margin-bottom: 110px;
+	font-size: 1.3em;
 }
 
 .wrapper {
@@ -75,3 +75,37 @@ body {
 	justify-content: space-evenly;
 	font-size: 2.5em;
 }
+
+.footer {
+    position: fixed;
+    top: 90%;
+    width: 100%;
+    height: 500px;
+    line-height: 60px;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+
+.footer > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    font-size: 1.8em;
+    border: 4px dashed #7c5c9d;
+    background: yellow;
+    border-radius: 100px;
+    width: 340px;
+    height: 65px;
+    margin-top: 26px;
+    
+}
+
+.a {
+    margin-right: 1200px;
+}
+
