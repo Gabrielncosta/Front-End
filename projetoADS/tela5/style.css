@@ -1,0 +1,118 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+
+body {
+	background-color: #FFD7D1;
+	padding-top: 175px;
+	
+}
+
+.header {
+	position: fixed;
+	padding: 20px 40px;
+	border-bottom: 1px solid #222f3e;
+	margin-bottom: 60px;
+	background-color: #7c5c9d;
+	width: 100%;
+	top: 0;
+}
+
+.header-logo {
+	margin-left: -90px;
+	display: flex;
+	position: relative;
+	top: 25px;
+}
+
+.header h1 {
+	color: #FFD7D1;
+	position: relative;
+	top: -30px;
+	right: -16%;
+	font-size: 3em
+}
+
+.instrução {
+	margin: 60px 0px;
+	width: 80%;
+	text-align: center;
+	border: 4px dashed white;
+	background: pink;
+	margin-bottom: 120px;
+	font-size: 2em;
+}
+
+.wrapper {
+	display: flex;
+	justify-content: center;
+}
+
+
+
+
+.buttons {
+	display: flex;
+	justify-content: space-evenly;
+	font-size: 2.5em;
+}
+
+.button {
+	position: fixed;
+	bottom: 100px;
+	left: 0;
+
+	display: block;
+	width: 100%;
+	height: 40px;
+	height: 60px;
+	line-height: 60px;
+	text-align: center;
+	color: #000;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size: 3em;
+	margin-bottom: 200px;
+	
+}
+
+.button a {
+	border: 4px dashed black;
+	border-radius: 100px;
+	background: pink;
+	padding: 20px;
+	background:yellow;
+	
+}
+
+.footer {
+    position: fixed;
+    top: 90%;
+    width: 100%;
+    height: 113px;
+    line-height: 60px;
+    background: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+
+.footer > a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: black;
+    font-size: 1.8em;
+    border: 4px dashed #7c5c9d;
+    background: yellow;
+    border-radius: 100px;
+    width: 340px;
+    height: 65px;
+    margin-top: 26px;
+    
+}
